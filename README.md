@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Devil-Sin
 - 👀 I’m interested in learning how to make cool softwares, websites and most importantly: GAMES!
 - 🌱 I’m currently learning Advanced Java, beginner Javascript and Python.
+- Fun Fact: I am also attending the online course "CS50's Introduction to Computer Science" from Harvard University!
