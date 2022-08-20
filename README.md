@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Devil-Sin
+- 👀 I’m interested in learning how to make cool softwares, websites and most importantly: GAMES!
+- 🌱 I’m currently learning Advanced Java, beginner Javascript and Python.
